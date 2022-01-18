@@ -20,6 +20,8 @@ public class Main {
 }
 /*
 as we all know operators follow associate law and we also know that a^a = 0 and a^0 = a
-that means exor of a number with same number gives 0 and an exor of a number with 0 gives the number itself.
+that means xor of a number with same number gives 0 and an exor of a number with 0 gives the number itself.
+therefore i have taken xor with all the elements in an array and exor will remain 0 until an element will found
+which is not repeative.
  */
 
